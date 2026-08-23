@@ -1,6 +1,6 @@
 # Webhook Delivery Service
 
-A simple webhook delivery service built with Laravel.
+A webhook delivery service built with Laravel.
 
 ## Features
 
